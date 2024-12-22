@@ -1,0 +1,114 @@
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.exe
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.deps.json
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.runtimeconfig.json
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.AssemblyReference.cache
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfoInputs.cache
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfo.cs
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.CoreCompileInputs.cache
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZ.E9F9E5F3.Up2Date
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\refint\WorldOfZuul.dll
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.genruntimeconfig.cache
+C:\Users\manis\Desktop\Semester-Project-1\worldofzuul\obj\Debug\net6.0\ref\WorldOfZuul.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.exe
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.deps.json
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.sourcelink.json
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZ.E9F9E5F3.Up2Date
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\refint\WorldOfZuul.dll
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\ref\WorldOfZuul.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.exe
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.deps.json
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.runtimeconfig.json
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.AssemblyReference.cache
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfoInputs.cache
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfo.cs
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.csproj.CoreCompileInputs.cache
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.sourcelink.json
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZ.E9F9E5F3.Up2Date
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\refint\WorldOfZuul.dll
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\WorldOfZuul.genruntimeconfig.cache
+C:\Users\manis\Desktop\MY_VERSION-Project-1\worldofzuul\obj\Debug\net6.0\ref\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.exe
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.deps.json
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.runtimeconfig.json
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.csproj.AssemblyReference.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfoInputs.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfo.cs
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.csproj.CoreCompileInputs.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.sourcelink.json
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZ.E9F9E5F3.Up2Date
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\refint\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.genruntimeconfig.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\obj\Debug\net6.0\ref\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.exe
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.deps.json
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.runtimeconfig.json
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.csproj.AssemblyReference.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfoInputs.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.AssemblyInfo.cs
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.csproj.CoreCompileInputs.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.sourcelink.json
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZ.E9F9E5F3.Up2Date
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\refint\WorldOfZuul.dll
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.pdb
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\WorldOfZuul.genruntimeconfig.cache
+C:\Users\manis\Desktop\DARWIN'S QUEST_VL\WorldOfZuul\obj\Debug\net6.0\ref\WorldOfZuul.dll

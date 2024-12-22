@@ -1,0 +1,2 @@
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Release\net6.0\win-x64\publish\WorldOfZuul.pdb
+C:\Users\manis\Desktop\DARWIN'S QUEST - COMPLETED\WorldOfZuul\bin\Release\net6.0\win-x64\publish\WorldOfZuul.exe
