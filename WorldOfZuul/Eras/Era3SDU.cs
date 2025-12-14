@@ -188,7 +188,7 @@ public class Era3SDU
     {
         string wordToGuess = "BEESWAX";
         char[] guessedWord = { '_', '_', 'E', '_', '_', 'A', '_' };
-        int attempts = 6; // Number of attempts allowed
+        int attempts = 8; // Number of attempts allowed
 
         CharactersManager.NPC_Color("nova");
 
@@ -222,6 +222,11 @@ public class Era3SDU
             Console.Write("\nGuess a letter: ");
             char userGuess = char.ToUpper(Console.ReadKey().KeyChar);
             Console.WriteLine();
+
+            if (!char.IsLetter(userGuess))
+            {
+                continue;
+            }
 
             bool correctGuess = false;
             for (int i = 0; i < wordToGuess.Length; i++)
@@ -557,10 +562,11 @@ public class Era3SDU
             Console.WriteLine();
 
             // The player failed to guess the word BEESWAX
-            // so no points are assigned this time
+            // but still gets points because Nova helped
+            PointSystem.Instance.AddPoints(4, 8);  // 8 points for Era3SDU (4)
 
             // Display the points the player earned across all eras
-            pointSystem.DisplayPointsEarned();
+            PointSystem.Instance.DisplayPointsEarned();
 
             // Nova Message
             CharactersManager.NPC_Color("nova");

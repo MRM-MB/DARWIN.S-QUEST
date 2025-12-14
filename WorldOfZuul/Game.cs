@@ -173,7 +173,11 @@ namespace WorldOfZuul
             Map.CenterText(lines);
 
             // Wait for user input
-            Console.WriteLine("\n\nPress any key to continue...");
+            Console.Write("\n\n");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.Write("PRESS ANY KEY");
+            Console.ResetColor();
+            Console.WriteLine(" to continue...");
             Console.ReadKey(); // Wait for a key press
             Console.Clear();
 
@@ -186,7 +190,11 @@ namespace WorldOfZuul
                 "A secret, ancient technology, lost to time, is unearthed — a gateway to the past."
             };
             Map.CenterText(lines);
-            Console.WriteLine("\n\nPress any key to continue...");
+            Console.Write("\n\n");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.Write("PRESS ANY KEY");
+            Console.ResetColor();
+            Console.WriteLine(" to continue...");
             Console.ReadKey();
             Console.Clear();
 
@@ -199,7 +207,11 @@ namespace WorldOfZuul
                 "Only by traveling through the forgotten eras of human history can you rewrite the mistakes that brought the world to its knees, and restore balance before it’s too late."
             };
             Map.CenterText(lines);
-            Console.WriteLine("\n\nPress any key to continue...");
+            Console.Write("\n\n");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.Write("PRESS ANY KEY");
+            Console.ResetColor();
+            Console.WriteLine(" to continue...");
             Console.ReadKey();
             Console.Clear();
 
