@@ -31,6 +31,20 @@ Here are some of the shared files that manage key game features:
 
 ---
 
+### 🖼️ Visuals
+
+<p align="center">
+  <img src="images/darwin.png" alt="Darwin Logo" width="200"/>
+</p>
+
+#### Game Flow
+![Game Flow](images/darwin_flow.webp)
+
+#### ASCII Preview
+![ASCII Art](images/darwin_ascii.webp)
+
+---
+
 💡 When contributing, make sure your comments are clear, and your changes are isolated to your assigned area. This helps avoid conflicts and ensures smooth integration of everyone’s work.
 
 ---
