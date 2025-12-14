@@ -12,10 +12,10 @@ Welcome to the first semester project! Below is the structure and file distribut
 
 | **File**                  | **Contributor**       | **Description**                                                                 |
 |---------------------------|-----------------------|---------------------------------------------------------------------------------|
-| `Darwin_Homeworld.cs`      | [Luigi](https://github.com/Lucol24) | Introductory explanation of the game for Darwin's homeworld.                     |
-| `Era 1.cs`                 | [Klara](https://github.com/KlaraD24) | Manages the first era focusing on solar panels and energy sustainability.        |
-| `Era 2 (Bees).cs`          | [Lukas](https://github.com/Lukkert) | Handles the storyline focused on protecting bees and their ecosystems.           |
-| `Era 2 (Corals).cs`        | [Arda](https://github.com/Ardaatakol) | Manages the second storyline centered around coral reef preservation.            |
+| `Darwin_Homeworld.cs`      | <a href="https://github.com/Lucol24" target="_blank">Luigi</a> | Introductory explanation of the game for Darwin's homeworld.                     |
+| `Era 1.cs`                 | <a href="https://github.com/KlaraD24" target="_blank">Klara</a> | Manages the first era focusing on solar panels and energy sustainability.        |
+| `Era 2 (Bees).cs`          | <a href="https://github.com/Lukkert" target="_blank">Lukas</a> | Handles the storyline focused on protecting bees and their ecosystems.           |
+| `Era 2 (Corals).cs`        | <a href="https://github.com/Ardaatakol" target="_blank">Arda</a> | Manages the second storyline centered around coral reef preservation.            |
 | `Era 3 (SDU).cs`           | Manish                | Interactions at SDU, focusing on beeswax and green cement (bio-materials).       |
 
 If any changes are made to files outside of your domain, **please include comments** explaining those changes.
