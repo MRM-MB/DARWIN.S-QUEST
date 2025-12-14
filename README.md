@@ -1,5 +1,9 @@
 # 🌀 Semester Project 1: **World of Zuul** Collaboration
 
+<p align="center">
+  <img src="images/darwin.png" alt="Darwin Logo" width="600"/>
+</p>
+
 Welcome to the first semester project! Below is the structure and file distribution for our **World of Zuul** game project.
 
 ---
@@ -33,15 +37,17 @@ Here are some of the shared files that manage key game features:
 
 ### 🖼️ Visuals
 
+#### Game Flow
+The SDGs that are presented are developed through the game play.
+
 <p align="center">
-  <img src="images/darwin.png" alt="Darwin Logo" width="200"/>
+  <img src="images/darwin_flow.webp" alt="Game Flow" width="600"/>
 </p>
 
-#### Game Flow
-![Game Flow](images/darwin_flow.webp)
-
 #### ASCII Preview
-![ASCII Art](images/darwin_ascii.webp)
+<p align="center">
+  <img src="images/darwin_ascii.webp" alt="ASCII Art" width="600"/>
+</p>
 
 ---
 
