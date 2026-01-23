@@ -6,6 +6,8 @@
 
 Welcome to the first semester project! Below is the structure and file distribution for Darwin's Quest, based on the **World of Zuul** game mechanics.
 
+**Darwin’s Quest** is a time-traveling educational game where players help restore a failing world by solving sustainability challenges across different eras.
+
 ---
 
 ### 📁 **File Distribution**
@@ -54,4 +56,5 @@ The SDGs that are presented are developed through the game play.
 💡 When contributing, make sure your comments are clear, and your changes are isolated to your assigned area. This helps avoid conflicts and ensures smooth integration of everyone’s work.
 
 ---
+
 
