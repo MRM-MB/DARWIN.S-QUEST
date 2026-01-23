@@ -1,10 +1,10 @@
-# 🌀 Semester Project 1: **World of Zuul** Collaboration
+# 🌀 Semester Project 1: **Darwin's Quest**
 
 <p align="center">
   <img src="images/darwin.png" alt="Darwin Logo" width="100%"/>
 </p>
 
-Welcome to the first semester project! Below is the structure and file distribution for our **World of Zuul** game project.
+Welcome to the first semester project! Below is the structure and file distribution for Darwin's Quest, based on the **World of Zuul** game mechanics.
 
 ---
 
@@ -54,3 +54,4 @@ The SDGs that are presented are developed through the game play.
 💡 When contributing, make sure your comments are clear, and your changes are isolated to your assigned area. This helps avoid conflicts and ensures smooth integration of everyone’s work.
 
 ---
+
