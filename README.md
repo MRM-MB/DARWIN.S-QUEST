@@ -52,7 +52,3 @@ The SDGs that are presented are developed through the game play.
 </p>
 
 ---
----
-
-
-
