@@ -1,4 +1,4 @@
-# 🌀 Semester Project 1: **Darwin's Quest**
+# 🌀 Darwin's Quest: A Time-Traveling SDG Adventure
 
 <p align="center">
   <img src="images/darwin.png" alt="Darwin Logo" width="100%"/>
